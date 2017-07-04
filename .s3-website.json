@@ -1,0 +1,11 @@
+{
+   "index": "index.html",
+   "region": "us-east-1",
+   "uploadDir": "dist",
+   "prefix": "",
+   "corsConfiguration": [],
+   "enableCloudfront": false,
+   "retries": 20,
+   "domain": "webpack-deploy-craterdome",
+   "configFile": ".s3-website.json"
+}
